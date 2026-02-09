@@ -381,7 +381,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 👨‍💻 Autor
 
 **Seu Nome**  
-[GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu@email.com)
+[GitHub](https://github.com/JohnSilva98) | [LinkedIn](https://linkedin.com/in/jonathansilva98) | [Email](mailto:bsilva.jonathan@outlook.com)
 
 ---
 
