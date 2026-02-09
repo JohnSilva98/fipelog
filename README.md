@@ -380,7 +380,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
+**Jonathan Silva**  
 [GitHub](https://github.com/JohnSilva98) | [LinkedIn](https://linkedin.com/in/jonathansilva98) | [Email](mailto:bsilva.jonathan@outlook.com)
 
 ---
